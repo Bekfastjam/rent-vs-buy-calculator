@@ -2,7 +2,7 @@ import streamlit as st
 import numpy_financial as npf
 
 
-st.title("🏠 Buy vs. Rent Calculator")
+st.title("Home Buying vs. Renting Calculator")
 
 # --- Buying Inputs ---
 st.header("Buying Info")
@@ -69,7 +69,7 @@ if st.button("Compare"):
         current_rent *= (1 + rent_increase_rate / 100)
 
     # --- Results ---
-    st.subheader("📊 Results")
+    st.subheader("Results")
     st.write(f"**Net Cost of Buying:** ${net_cost_buying:,.2f}")
     st.write(f"**Total Cost of Renting:** ${total_renting:,.2f}")
 
