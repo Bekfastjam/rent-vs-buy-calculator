@@ -1,8 +1,8 @@
-# 🏠 Rent vs Buy Calculator
+# Rent vs Buy Calculator
 
 A simple and interactive **Streamlit app** to help users compare the financial cost of renting vs buying a home over time.
 
-## 📊 Features
+## Features
 
 - Input fields for home price, down payment, loan term, interest rate, property taxes, insurance, maintenance, and appreciation
 - Rent cost and rent inflation rate tracking
@@ -13,7 +13,7 @@ A simple and interactive **Streamlit app** to help users compare the financial c
   - Net cost of buying
 - User-friendly interface built with Streamlit
 
-## 🚀 How to Run It Locally
+## How to Run It Locally
 
 1. Clone the repository:
 
